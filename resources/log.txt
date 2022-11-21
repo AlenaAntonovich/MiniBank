@@ -1,0 +1,1 @@
+[WARN][class Main] [2022-11-21T19:34:09.968712200]Cute info message
